@@ -118,6 +118,27 @@ Unlike traditional tutorials, I believe in:
 
 ---
 
+
+## 🏆 Badges & Stats
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mukeshtopcoder&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mukeshtopcoder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mukeshtopcoder&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshtopcoder&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ## 🧠 Learning Roadmap (For Students)
 
 ```text
