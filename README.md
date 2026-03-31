@@ -141,7 +141,7 @@ Unlike traditional tutorials, I believe in:
 4. Power BI → Data Modeling, DAX, Dashboards
 5. Machine Learning → Models, Evaluation Metrics
 6. Projects → End-to-End + Interview Preparation
-
+```
 ---
 
 ## 🐍 Contribution Graph
