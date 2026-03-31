@@ -119,7 +119,6 @@ Unlike traditional tutorials, I believe in:
 ---
 
 
-
 ## 🏆 Badges & Stats
 
 <p align="center">
@@ -127,15 +126,15 @@ Unlike traditional tutorials, I believe in:
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mukeshtopcoder&show_icons=true&hide_border=true&count_private=true&theme=default&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mukeshtopcoder&show_icons=true&hide_border=true&count_private=true&theme=default&include_all_commits=true" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=mukeshtopcoder&hide_border=true&theme=default&cache_seconds=1800" />
+  <img height="165" src="https://streak-stats.demolab.com?user=mukeshtopcoder&hide_border=true&theme=default" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshtopcoder&layout=compact&hide_border=true&theme=default&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshtopcoder&layout=compact&hide_border=true&theme=default&langs_count=6" />
 </p>
 
 ---
