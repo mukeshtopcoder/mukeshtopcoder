@@ -119,22 +119,23 @@ Unlike traditional tutorials, I believe in:
 ---
 
 
+
 ## 🏆 Badges & Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mukeshtopcoder&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=mukeshtopcoder&label=Profile%20Views&color=0e75b6&style=flat-square" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mukeshtopcoder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mukeshtopcoder&show_icons=true&hide_border=true&count_private=true&theme=default&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mukeshtopcoder&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=mukeshtopcoder&hide_border=true&theme=default&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshtopcoder&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshtopcoder&layout=compact&hide_border=true&theme=default&cache_seconds=1800" />
 </p>
 
 ---
