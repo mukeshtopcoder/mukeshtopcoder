@@ -134,7 +134,7 @@ Unlike traditional tutorials, I believe in:
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mukeshtopcoder/mukeshtopcoder/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/mukeshtopcoder/mukeshtopcoder/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
