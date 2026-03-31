@@ -129,13 +129,6 @@ Unlike traditional tutorials, I believe in:
   <img height="170" src="https://streak-stats.demolab.com?user=mukeshtopcoder&hide_border=true" />
 </p>
 
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mukeshtopcoder/mukeshtopcoder/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 ---
 
@@ -148,3 +141,11 @@ Unlike traditional tutorials, I believe in:
 4. Power BI → Data Modeling, DAX, Dashboards
 5. Machine Learning → Models, Evaluation Metrics
 6. Projects → End-to-End + Interview Preparation
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mukeshtopcoder/mukeshtopcoder/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
