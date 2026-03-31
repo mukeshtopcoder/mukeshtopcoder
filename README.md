@@ -119,7 +119,6 @@ Unlike traditional tutorials, I believe in:
 ---
 
 
-
 ## 🏆 Badges & Stats
 
 <p align="center">
@@ -127,9 +126,7 @@ Unlike traditional tutorials, I believe in:
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mukeshtopcoder&show_icons=true&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mukeshtopcoder&layout=compact&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshtopcoder&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=mukeshtopcoder&hide_border=true" />
 </p>
 
 ---
