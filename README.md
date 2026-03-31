@@ -83,6 +83,21 @@ I’m a **trainer and mentor** focused on turning beginners into **industry-read
 
 ---
 
+## 🏆 Badges & stats
+<p>
+  <img src="https://komarev.com/ghpvc/?username=mukeshtopcoder&label=Profile%20views" alt="profile views" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mukeshtopcoder&show_icons=true&hide_border=true" alt="GitHub stats" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshtopcoder&hide_border=true" alt="streak stats" />
+</p> 
+
+---
+
 ## 🧠 My Teaching Roadmap
 
 ```text
