@@ -92,7 +92,7 @@ Unlike traditional tutorials, I believe in:
 ### 💼 Interview Preparation (Hands-On)
 
 🔹 SQL → https://github.com/mukeshtopcoder/SQL_Interview_Questions  
-🔹 Excel → https://github.com/mukeshtopcoder/Excel_Interview_Questions  
+🔹 Excel → https://github.com/mukeshtopcoder/Excel_Interview_Questions_Related_To_Data_Analytics  
 
 - Real interview questions  
 - Practical solutions  
